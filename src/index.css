@@ -1,0 +1,16 @@
+@import "./Fonts/fonts.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "KeAiDe", sans-serif;
+  background: linear-gradient(
+    to right,
+    rgb(237, 215, 202) 10%,
+    rgb(11, 131, 114) 150%
+  );
+}
+
+button {
+  cursor: pointer;
+}
